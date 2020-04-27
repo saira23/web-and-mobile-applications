@@ -1,0 +1,89 @@
+body{
+    background-image: url(images/spots_background_line_abstraction_66994_1280x720.jpg);
+ width: 95%;
+}
+table{
+    
+    padding: 5px 5px 5px 5px;
+  
+}
+tr{
+    border-style: hidden;
+    
+}
+td{
+    border-style: hidden;
+   
+}
+#img{
+    float: left;
+    width: 450px;
+    margin: 50px;
+    padding-right: 30px;
+    position: relative;
+    left: 20px;
+   
+}
+#form{
+    float: left;
+    width: 670px;
+    margin:10px;
+    height: 610px;
+    background:rgba(0,0,0,0.4);
+    border-radius: 10px;
+    padding: 2ps 2px 2px 2px;
+    border: 1px solid rgb(241, 182, 182);
+    box-shadow: 6px 6px 6px #f5bcbc;
+        
+
+    }
+h1{
+    color: seashell;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-shadow: 3px 4px 4px aquamarine;
+
+}
+p{
+    color: rgb(119, 241, 156);
+    text-align:justify;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+table{
+    color: white;
+}
+.qual{
+    color:rgb(235, 235, 124);
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 30px;
+}
+.first{
+    padding-left: 30px;
+    padding-bottom: 5px;
+    height: 20px;
+}
+.second{
+    text-align: center;
+}
+.third{
+           padding-left: 590px;
+           
+    }
+.page{
+  background-image: url("images/lines_stripes_red_154315_1280x720.jpg");
+}
+.tick{
+    padding-left: 550px;
+}
+.success{
+    color: chartreuse;
+    font-size: 24px;
+    text-align: center;
+}
+.fourth{
+    padding-left: 500px;    
+}
+
